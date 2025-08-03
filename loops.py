@@ -1,5 +1,3 @@
-# loops.py
-
 # 1-misol: 1 dan 5 gacha sonlarni chiqarish (for loop)
 print("1-misol: For loop bilan sonlar")
 for i in range(1, 6):
