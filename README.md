@@ -11,7 +11,7 @@ It includes examples, exercises, and notes I practice every day to improve my sk
 ## 🗓️ Daily Learning Log:
 - Day 1: Learned basic if-else conditions and practiced with 7 examples.  
 - Day 2: Studied for and while loops and implemented examples like FizzBuzz.  
-- (This log will be updated regularly.)
+- Day 3: Learned about defining functions in Python. Practiced creating simple functions, using parameters, returning values, and real-life examples.
 
 ## 🛠️ Tools & Libraries:
 - Python 3.x  
