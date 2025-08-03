@@ -1,4 +1,4 @@
-# 1-misol: Ikki sonni solishtirish
+ # 1-misol: Ikki sonni solishtirish
 def solishtir(x, y):
     """Ikki sonni solishtiruvchi funksiya"""
     if x > y:
