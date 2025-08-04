@@ -12,7 +12,7 @@ It includes examples, exercises, and notes I practice every day to improve my sk
 - Day 1: Learned basic if-else conditions and practiced with 7 examples.  
 - Day 2: Studied for and while loops and implemented examples like FizzBuzz.  
 - Day 3: Learned about defining functions in Python. Practiced creating simple functions, using parameters, returning values, and real-life examples.
--Day 4: Learned about lists, dictionaries, and file handling in Python.  
+- Day 4: Learned about lists, dictionaries, and file handling in Python.  
   Practiced list operations (append, slice, remove), worked with key-value pairs in dictionaries, and learned how to read/write files.
 
 ## 🛠️ Tools & Libraries:
