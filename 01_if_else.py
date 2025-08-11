@@ -37,6 +37,7 @@ else:
 
   
   # 5-misol: .upper(), .title()
+  avtolar = ['bmw', 'audi', 'toyota', 'honda'] 
   for avto in avtolar: # avtolar ichidadi har bir avto uchun ...
     if avto == 'bmw':  # ... agar avto bmw ga teng bo'lsa ...
         print(avto.upper()) # avto nomini hamma harflarini katta bilan yozadi.
