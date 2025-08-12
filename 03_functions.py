@@ -4,7 +4,7 @@ def solishtir(x, y):
     if x > y:
         print(f"{x} > {y}")
     elif x < y:
-        print(f"{y} > {x}")
+        print(f"{y} < {x}")
     else:
         print(f"{x} = {y}")
 
